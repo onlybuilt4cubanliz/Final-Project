@@ -14,5 +14,12 @@ Features
 -Fethes metadata for the songs(if provided)
 -Plays the song in the GUI
 -Manually rank your songs from best to least
--
+-Simple GUI
+
+License
+===
+
+Refer to License text file!
+
+Credits
 
