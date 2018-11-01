@@ -11,7 +11,7 @@ The purpose of mManager is to be able to get your music from your music folders 
 Features
 ===
 
--Fethes metadata for the songs(if provided)
+-Fetches metadata for the songs(if provided)
 -Plays the song in the GUI
 -Manually rank your songs from best to least
 -Simple GUI
