@@ -14,7 +14,7 @@ Features
 -Fetches metadata for the songs(if provided)
 -Remove and add songs
 -Simple GUI
--Simple HUD
+-Highhlighting Favorite Songs
 
 
 Features to Come
